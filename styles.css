@@ -1,15 +1,21 @@
 body {
-    background-color: rgb(222, 217, 230) ;
+    background-color: rgb(213, 208, 221) ;
+    
    
 }
 
-
+h1 {
+    
+    font-size: 3em;
+    font-style: oblique;
+    text-align: center;
+}
 
 
 
 
 .basicinfo {
     text-align: center;
-    box-shadow:0 0 50px 10px rgba(0, 0, 0, 0.3);
+    box-shadow:0 0 50px 10px rgba(88, 133, 185, 0.9);
     
 }
